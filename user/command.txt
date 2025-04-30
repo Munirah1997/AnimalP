@@ -1,0 +1,1 @@
+scp -i Alduais.pem admin.py ec2-user@ec2-35-177-161-78.eu-west-2.compute.amazonaws.com:/home/ec2-user/d63a-2001-f40-92d-b32-248d-d202-b5f1-b0c1.ngrok-free.app/FYP/FYP/user/
